@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amen-wondwosen
+- 📫 I am reachable at amenwond408@gmail.com
+- 🌱 I’m currently learning about databases and database management
+- 👀 I’m interested in working with apis and creating data structures
